@@ -12,7 +12,9 @@ namespace Common.Constants
         MoP,
         WoD,
         Legion,
-        BfA
+        BfA, 
+        Shadowlands,
+        Dragonflight
     }
 
     public enum Classes : byte
